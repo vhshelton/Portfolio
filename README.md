@@ -22,11 +22,15 @@ This is from Materialize, a program that generates image maps to make materials 
 
 # 2D Art
 
+2D Art is what I have the most experience in. My favorite form is pixel art and sprites. I even have a little bit of experience animating sprites.
+
 # 3D Art
 
 My main experience in 3D art is in Blender and Blockbench. I have reached a reasonable proficiency in 3D modeling and texturing, as well as a bit in rigging. 
 
 ![image](https://github.com/vhshelton/Portfolio/assets/90403647/ab340759-d834-4396-8c09-2d88638b4462)
+![image](https://github.com/vhshelton/Portfolio/assets/90403647/a202a4a5-55a3-4e09-902a-3f7343ead875)
+
 
 ![image](https://github.com/vhshelton/Portfolio/assets/90403647/6aa50393-5a8c-40c5-a4b4-f2bf7f518b70)
 
