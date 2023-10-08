@@ -22,7 +22,14 @@ This is from Materialize, a program that generates image maps to make materials 
 
 # 2D Art
 
-2D Art is what I have the most experience in. My favorite form is pixel art and sprites. I even have a little bit of experience animating sprites.
+2D Art is what I have the most experience in. My favorite form is pixel art and sprites. I even have a little bit of experience animating sprites. A few examples can be found in the 2D Art folder, as well as here.
+
+![image](https://github.com/vhshelton/Portfolio/assets/90403647/d317c096-7fe5-4f7e-bc89-d05454f1bb34)
+![image](https://github.com/vhshelton/Portfolio/assets/90403647/a396b3f0-db60-4ac3-ab51-711de008cf8f)
+![image](https://github.com/vhshelton/Portfolio/assets/90403647/c41505c3-bc1e-4d54-bc68-35d979cc87af)
+![image](https://github.com/vhshelton/Portfolio/assets/90403647/ca80294d-ecee-47ec-aa2a-89f2d02515be)
+
+
 
 # 3D Art
 
