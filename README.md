@@ -5,7 +5,7 @@ This is my portfolio, where I store the best of my creations! This is both a por
 
 My first foray into game design started with a class in high school. I don't remember what that class was called, but I remember it being one of my favorites. I still have my final project from that class, which is included in this repository. It is a simple game called Munch, where you are a small blob that gains mass by eating other blobs. Your goal is to become the biggest blob!
 
-![image](https://github.com/vhshelton/Portfolio/assets/90403647/8b08f2d0-2d12-4659-bad6-1b89347447f9)
+![image](https://github.com/vhshelton/Portfolio/assets/90403647/aea3c1cd-ae05-473a-b16b-da150a0403f3)
 
 This game was made using Greenfoot, a program for learning java, created by Oracle and King's College.
 https://www.greenfoot.org/
