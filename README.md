@@ -24,6 +24,9 @@ This is from Materialize, a program that generates image maps to make materials 
 
 # 3D Art
 
-My main experience in 3D art is in Blender. I have reached a reasonable proficiency in 3D modeling and texturing, as well as a bit in rigging. 
+My main experience in 3D art is in Blender and Blockbench. I have reached a reasonable proficiency in 3D modeling and texturing, as well as a bit in rigging. 
 
 ![image](https://github.com/vhshelton/Portfolio/assets/90403647/ab340759-d834-4396-8c09-2d88638b4462)
+
+![image](https://github.com/vhshelton/Portfolio/assets/90403647/6aa50393-5a8c-40c5-a4b4-f2bf7f518b70)
+
