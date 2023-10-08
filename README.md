@@ -16,7 +16,14 @@ My next foray into game design was much more recent. I was inspired by indie gam
 ![image](https://github.com/vhshelton/Portfolio/assets/90403647/bcefb9e7-ce7a-4488-9486-bbda4f5ee77c)
 ![image](https://github.com/vhshelton/Portfolio/assets/90403647/77057702-cc05-4891-aa68-d19965dabe39)
 
+This is from Materialize, a program that generates image maps to make materials look more realistic.
+![image](https://github.com/vhshelton/Portfolio/assets/90403647/c3453e51-0d5c-43f5-a562-c814bcc3888e)
+
 
 # 2D Art
 
 # 3D Art
+
+My main experience in 3D art is in Blender. I have reached a reasonable proficiency in 3D modeling and texturing, as well as a bit in rigging. 
+
+![image](https://github.com/vhshelton/Portfolio/assets/90403647/ab340759-d834-4396-8c09-2d88638b4462)
